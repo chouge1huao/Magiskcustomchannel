@@ -2,11 +2,11 @@
   "magisk": {
     "version": "aa6c7c15",
     "versionCode": "26401",
-    "link": "https://chouge1huao.github.io/Magisk-/Magisk/app-debug.apk",
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Magisk/app-debug.apk",
     "note": "note.md"
   },
   "stub": {
     "versionCode": "38",
-    "link": ""
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Magisk/sutb-debug.apk"
   }
 }
