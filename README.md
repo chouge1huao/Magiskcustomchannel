@@ -4,4 +4,7 @@
 ## Magisk       
 stable:https://chouge1huao.github.io/Magiskcustomchannel/Magisk/stable.json          
 canary:https://chouge1huao.github.io/Magiskcustomchannel/Magisk/canary.json                   
-debug:https://chouge1huao.github.io/Magiskcustomchannel/Magisk/debug.json                     
+debug:https://chouge1huao.github.io/Magiskcustomchannel/Magisk/debug.json                
+## Kitsune Mask
+canary:https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/canary.json         
+debug:https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/debug.json     
