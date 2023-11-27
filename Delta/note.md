@@ -6,7 +6,7 @@ Canary和Debug构建自相同的源代码。调试版本有更详细的日志，
 
 如果你喜欢我的作品，可以在【PayPal/husky DG】(http://PayPal . me/husky DG)给我捐款
 
-###与官方Magisk不同
+### 与官方Magisk不同
 
 - [General]使用“Unmount modules”按模块管理已修改文件的可见性
 - [Manager]支持安装到仿真器的系统分区中
