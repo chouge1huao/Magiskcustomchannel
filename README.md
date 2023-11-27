@@ -17,8 +17,8 @@ debug:https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/debug.json
 
 ## Magisk Delta
 
-stabla:
+beta:https://chouge1huao.github.io/Magiskcustomchannel/Delta/beta.json
 
-canary:
+canary:https://chouge1huao.github.io/Magiskcustomchannel/Delta/canaty.json
 
-debug:
+debug:https://chouge1huao.github.io/Magiskcustomchannel/Delta/debug.json
