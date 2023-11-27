@@ -1,3 +1,23 @@
+## 0fe46c5a-delta 每夜构建
+
+-应该修复启动回路
+
+Canary和Debug构建自相同的源代码。调试版本有更详细的日志，适合调试。Canary版本具有更少的日志，比Debug更稳定，并且适合大多数常见用途
+
+如果你喜欢我的作品，可以在【PayPal/husky DG】(http://PayPal . me/husky DG)给我捐款
+
+###与官方Magisk不同
+
+- [General]使用“Unmount modules”按模块管理已修改文件的可见性
+- [Manager]支持安装到仿真器的系统分区中
+-[常规]为` addon.d `将所需文件复制到`/system '
+- [Manager]在中文ROM的语言设置中显示所有支持的语言
+-[模块]支持无系统删除模块的文件或文件夹
+-[常规]内置引导环路保护，通过magisk模块保护系统免受引导环路影响
+- [General]调整F2FS驱动程序以修复未加密的f2fs `/data `上的问题
+- [MagiskInit]支持在“初始化”开始之前替换系统文件的预初始化挂载
+-
+
 ## 0fe46c5a-delta Nightly build
 
 - Should fix bootloop
