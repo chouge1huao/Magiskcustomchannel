@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "",
-    "versionCode": "",
+    "version": "aa6c7c15(26401)",
+    "versionCode": "26401",
     "link": "https://chouge1huao.github.io/Magisk-/Magisk/app-debug.apk",
-    "note": ""
+    "note": "note.md"
   },
   "stub": {
-    "versionCode": "",
+    "versionCode": "38",
     "link": ""
   }
 }
