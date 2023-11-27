@@ -1,13 +1,13 @@
 {
   "magisk": {
-    "version": "https://chouge1huao.github.io/Magiskcustomchannel/Delta",
-    "versionCode": "",
-    "link": "",
-    "note": ""
+    "version": "0fe46c5a-delta",
+    "versionCode": "26301",
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Delta/app-canary.apk",
+    "note": "https://chouge1huao.github.io/Magiskcustomchannel/Delta/note.md"
   },
   "stub": {
-    "versionCode": "",
-    "link": ""
+    "versionCode": "38",
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Delta/stub-canary.apk"
   }
 }
 
