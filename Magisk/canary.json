@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "",
-    "versionCode": "",
-    "link": "",
-    "note": ""
+    "version": "aa6c7c15",
+    "versionCode": "26401",
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Magisk/app-canary.apk",
+    "note": "https://chouge1huao.github.io/Magiskcustomchannel/Magisk/note.md"
   },
   "stub": {
     "versionCode": "38",
-    "link": ""
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Magisk/stub-canary.apk"
   }
 }
