@@ -2,11 +2,11 @@
   "magisk": {
     "version": "26.1",
     "versionCode": "26100",
-    "link": "",
-    "note": ""
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Delta/stable.apk",
+    "note": "https://chouge1huao.github.io/Magiskcustomchannel/Delta/beta.md"
   },
   "stub": {
-    "versionCode": "",
-    "link": ""
+    "versionCode": "38",
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Delta/stub-beta"
   }
 }
