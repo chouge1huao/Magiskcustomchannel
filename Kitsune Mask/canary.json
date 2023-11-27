@@ -2,11 +2,11 @@
   "magisk": {
     "version": "R6561D823-kitsune",
     "versionCode": "26401",
-    "link": "https://github.com/chouge1huao/Magiskcustomchannel/Kitsune Mask/app-canary.apk",
-    "note": "https://github.com/chouge1huao/Magiskcustomchannel/Kitsune Mask/note.md"
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/app-canary.apk",
+    "note": "https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/note.md"
   },
   "stub": {
     "versionCode": "38",
-    "link": "https://github.com/chouge1huao/Magiskcustomchannel/Kitsune Mask/stub-canary.apk"
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/stub-canary.apk"
   }
 }
