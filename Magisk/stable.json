@@ -2,11 +2,11 @@
   "magisk": {
     "version": "26.4",
     "versionCode": "26400",
-    "link": "",
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Magisk/app-stable",
     "note": "https://chouge1huao.github.io/Magisk--/发布/26400.md"
   },
   "stub": {
-    "versionCode": "",
-    "link": ""
+    "versionCode": ""38,
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Magisk/stub-stable"
   }
 }
