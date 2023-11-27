@@ -2,12 +2,12 @@
   "magisk": {
     "version": "R656426A5-kitsune",
     "versionCode": "26401",
-    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/app-debug",
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/app-debug.apk",
     "note": "https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/note.md"
   },
   "stub": {
     "versionCode": "38",
-    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/stub-debug"
+    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/stub-debug.apk"
   }
 }
 
