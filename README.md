@@ -2,6 +2,7 @@
 > (通道个人创建如有不便请使用官方通道)
      
 ## Magisk       
+alpha:https://chouge1huao.github.io/Magiskcustomchannel/Magisk/alpha.json
 
 stable:https://chouge1huao.github.io/Magiskcustomchannel/Magisk/stable.json          
 
