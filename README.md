@@ -23,3 +23,7 @@ beta:https://chouge1huao.github.io/Magiskcustomchannel/Delta/beta.json
 canary:https://chouge1huao.github.io/Magiskcustomchannel/Delta/canaty.json
 
 debug:https://chouge1huao.github.io/Magiskcustomchannel/Delta/debug.json
+
+## 相关
+
+[Magisk文档](https://chouge1huao.github.io/MagiskDocument/)
