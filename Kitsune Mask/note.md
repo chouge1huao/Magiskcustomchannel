@@ -8,7 +8,7 @@ Kitsune Mask使用了ZygiskNext的一些代码，这是一个由Dr-TSNG和5ec1cf
 
 Magisk上游水平 头提交:ecb31ee      
 
-# R656426A5-kitsune
+# R6566BB1C-kitsune
 
 WARNING! You are using an unofficial version of Magisk that is not officially supported by the Magisk author. This version may contain unstable modifications that could harm your device or compromise your security. Do not report any issues or request any help from official Magisk channels. If you use this version but do not know this is an unofficial version, please switch to the official Magisk at github.com/topjohnwu/Magisk
 
