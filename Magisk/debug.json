@@ -1,8 +1,8 @@
 {
   "magisk": {
-    "version": "aa6c7c15(D)",
-    "versionCode": "26401",
-    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Magisk/app-debug.apk",
+    "version": "1dcf3255(D)",
+    "versionCode": "26402",
+    "link": "https://gh.flyinbug.top/gh/https://github.com/chouge1huao/Magisk-app/releases/download/26402/app-debug.apk",
     "note": "https://chouge1huao.github.io/Magiskcustomchannel/Magisk/note.md"
   },
   "stub": {
